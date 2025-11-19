@@ -17,6 +17,6 @@ To watch the CSS files
 `npm run watch or yarn watch`
 
 To build the project, run the following command
-(builds to `css/styles.css`, which is the final css file)
+(builds to `css/main.css`, which is the final css file)
 
 `npm run build or yarn build`
