@@ -1,4 +1,4 @@
-# tw-landing-page-01
+# tw-simple-bmi-calculator
 
 A simple BMI calculator built using HTML5, CSS3 with Tailwind CSS and JavaScript.
 
