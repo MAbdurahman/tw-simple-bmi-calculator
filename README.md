@@ -9,7 +9,7 @@ Clone or Download the repository
 
 Install the dependencies
 
-`npm install or yarn install`
+`npm install or yarn`
 
 To watch the CSS files
 (watches the `src/input.css` file for changes)
