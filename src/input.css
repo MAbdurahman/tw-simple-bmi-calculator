@@ -2,9 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
 
 @theme {
-   --font-body: 'Work Sans', sans-serif;
-   --font-heading: 'Libre Baskerville', serif;
-   --font-mono: 'Roboto Mono', monospace;
+   --font-body: 'Sen', sans-serif;
+
    /************************* typography scale *************************/
    --font-size-heading-01: 3.815rem;
    --font-size-heading-02: 3.052rem;
@@ -149,7 +148,7 @@
           Typography Scale - 1.250 - Major Third
    ==================================================================*/
    h1, h2, h3, h4, h5, h6 {
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Sen', sans-serif;
       font-weight: 700;
       text-rendering: optimizeLegibility;
    }
@@ -179,7 +178,7 @@
    }
 
    p, small {
-      font-family: 'Work Sans', sans-serif;
+      font-family: 'Sen', sans-serif;
       text-rendering: optimizeLegibility;
    }
 

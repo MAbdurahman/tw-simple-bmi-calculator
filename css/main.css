@@ -5,7 +5,8 @@
   :root, :host {
     --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --font-mono: 'Roboto Mono', monospace;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+      "Courier New", monospace;
     --color-neutral-100: hsl(210.19, 0%, 88%);
     --color-neutral-300: hsl(210.19, 0%, 68%);
     --color-neutral-400: hsl(210.19, 0%, 58%);
@@ -19,7 +20,7 @@
     --font-weight-bold: 800;
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
-    --font-body: 'Work Sans', sans-serif;
+    --font-body: 'Sen', sans-serif;
     --color-blue-01-200: hsl(210.19, 90%, 90%);
     --color-blue-01-600: hsl(210.19, 70%, 40%);
     --color-neutral-000: hsl(210.19, 0%, 98%);
@@ -314,7 +315,7 @@
     scroll-behavior: smooth;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Sen', sans-serif;
     font-weight: 700;
     text-rendering: optimizeLegibility;
   }
@@ -337,7 +338,7 @@
     font-size: 1.25rem;
   }
   p, small {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
     text-rendering: optimizeLegibility;
   }
   p {
